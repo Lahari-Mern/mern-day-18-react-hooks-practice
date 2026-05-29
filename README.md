@@ -21,6 +21,6 @@ This repository contains beginner-friendly React.js mini projects created while 
 - State Management
 - Event Handling
 - Functional Components
-React Hooks Practice/
- ├── useReducer/
- └── useCallback/
+React Hooks Practice
+  ─ useReducer
+  ─ useCallback
